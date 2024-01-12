@@ -14,4 +14,6 @@ write: / lv_data.
 skip.
 write: / lv_data1.
 ```
+Result:
+
 ![image1](https://github.com/GrzegorzKraszewski/GK_abap_daily_tips/assets/141272893/d5caff46-de69-4dc4-87a6-134eca5020bd)
