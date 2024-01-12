@@ -16,4 +16,5 @@ write: / lv_data1.
 ```
 Result:
 
-![image1](https://github.com/GrzegorzKraszewski/GK_abap_daily_tips/assets/141272893/d5caff46-de69-4dc4-87a6-134eca5020bd)
+
+![helloabapers](https://github.com/GrzegorzKraszewski/GK_abap_daily_tips/assets/141272893/59d9f830-2528-47aa-ad09-91c679f01882)
