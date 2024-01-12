@@ -1,0 +1,1 @@
+# GK_abap_daily_tips
