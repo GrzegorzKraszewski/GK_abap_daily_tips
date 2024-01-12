@@ -1,4 +1,5 @@
-This short program show's how to trim last char in string  <br>
+##This short program show's how to trim last char in string  <br>
+
 
 ```console
 data: lv_data TYPE string value 'HelloAbapers',
